@@ -1,0 +1,8 @@
+{
+  // 注释
+  "name": "dson-loader", /* 123 */
+  /*
+  * abc
+  */
+  "value": "dson"
+}
